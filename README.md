@@ -21,7 +21,8 @@ Python · FastAPI · LangChain · OpenAI and Claude APIs · vector databases · 
 
 ### Projects
 
-**Airborne Commander** — Browser-based control stack for a Parrot MiniDrone Airborne. Web Bluetooth over the ARDrone3 BLE protocol, PS5 DualSense gamepad input, and a React/Vite cockpit interface with live telemetry. Includes an experimental vision-tracking mode using HSV detection driven by a PD controller.
+**Airborne Commander** — github.com/Elhadji95460/airborne-commander
+Browser-based control stack for a Parrot MiniDrone Airborne. Web Bluetooth over the ARDrone3 BLE protocol, PS5 DualSense gamepad input, and a React/Vite cockpit interface with live telemetry. Includes an experimental vision-tracking mode using HSV detection driven by a PD controller.
 
 ---
 
